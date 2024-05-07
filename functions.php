@@ -7,10 +7,10 @@ function doctype(){
     echo "<html lang=fr>";
 }
 
-function header($titre){
+function header(){
     echo "<head>\n";
     echo "    <meta charset='UTF-8'>\n";
-    echo "    <title>$titre</title>\n";
+    echo "    <title>Boye Bois</title>\n";
     echo "</head>\n";
 }
 
